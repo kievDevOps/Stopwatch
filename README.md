@@ -11,5 +11,5 @@ To test the stopwatch, download the files and run the index
 
 ## The project
 
-The stopwatch was created with HTML5, CSS3 and JavaScript
+The stopwatch was created with HTML5, CSS3 and JavaScript <br />
 The main focus of the project is having easy to understand code, good readability and a functional JavaScript stopwatch
